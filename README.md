@@ -61,8 +61,7 @@ This contract provides a basic implementation of a token with minting and burnin
 
 ## Author
 
-Akshita Sood
-
+Akshita Sood =>
 [@akshitasood08](https://github.com/akshitasood08)
 
 
